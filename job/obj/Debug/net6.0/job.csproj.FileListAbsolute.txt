@@ -1,0 +1,15 @@
+C:\GeekBrains\job\bin\Debug\net6.0\job.exe
+C:\GeekBrains\job\bin\Debug\net6.0\job.deps.json
+C:\GeekBrains\job\bin\Debug\net6.0\job.runtimeconfig.json
+C:\GeekBrains\job\bin\Debug\net6.0\job.dll
+C:\GeekBrains\job\bin\Debug\net6.0\job.pdb
+C:\GeekBrains\job\obj\Debug\net6.0\job.csproj.AssemblyReference.cache
+C:\GeekBrains\job\obj\Debug\net6.0\job.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\job\obj\Debug\net6.0\job.AssemblyInfoInputs.cache
+C:\GeekBrains\job\obj\Debug\net6.0\job.AssemblyInfo.cs
+C:\GeekBrains\job\obj\Debug\net6.0\job.csproj.CoreCompileInputs.cache
+C:\GeekBrains\job\obj\Debug\net6.0\job.dll
+C:\GeekBrains\job\obj\Debug\net6.0\refint\job.dll
+C:\GeekBrains\job\obj\Debug\net6.0\job.pdb
+C:\GeekBrains\job\obj\Debug\net6.0\job.genruntimeconfig.cache
+C:\GeekBrains\job\obj\Debug\net6.0\ref\job.dll
